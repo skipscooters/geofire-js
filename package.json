@@ -24,7 +24,8 @@
     "dist/**",
     "LICENSE",
     "README.md",
-    "package.json"
+    "package.json",
+    "index.js"
   ],
   "dependencies": {},
   "peerDependencies": {
